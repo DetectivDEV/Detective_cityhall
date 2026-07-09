@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'DetectivDEV'
-description 'detective_cityhall - City Hall UI'
+description 'A modern City Hall UI for QBCore & Qbox'
 version '1.0.0'
 contribution 'SWGAURKO'
 
