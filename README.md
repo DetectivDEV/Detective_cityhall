@@ -419,6 +419,7 @@ Please do not remove original credits when redistributing.
 ---
 
 # 💙 Credits
+Made by DetectivDEV
 
 Special thanks to **SWGAURKO**
 
