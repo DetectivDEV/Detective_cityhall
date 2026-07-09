@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'swg'
+author 'DetectivDEV'
 description 'detective_cityhall - City Hall UI'
 version '1.0.0'
 contribution 'SWGAURKO'
