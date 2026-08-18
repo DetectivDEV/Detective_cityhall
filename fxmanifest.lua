@@ -7,9 +7,21 @@ description 'A modern City Hall UI for QBCore & Qbox'
 version '1.0.0'
 contribution 'SWGAURKO'
 
-shared_script 'shared.lua'
-client_script 'client.lua'
-server_script 'server.lua'
+
+
+shared_scripts {   
+    'shared.lua'
+}
+
+client_scripts {
+    'client.lua'
+}
+
+server_scripts {
+    '@oxmysql/lib/MySQL.lua',
+    'server.lua'
+}
+
 
 ui_page 'html/index.html'
 
